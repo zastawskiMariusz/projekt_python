@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c997629d-29d5-4995-9347-9fa447087e7a" name="Changes" comment="" />
+    <list default="true" id="a44bbacc-f94c-4a6a-a8d2-b341108c569e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/projekt_sprzedaz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/projekt_sprzedaz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/309458.sdf" beforeDir="false" afterPath="$PROJECT_DIR$/data/309458.sdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_init_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/analysis/statistics.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/analysis/statistics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/console_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/console_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/file_processor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/file_processor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/sale_record.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/sale_record.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/sales_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/sales_dataset.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
-  <component name="ProjectId" id="3CqreP9lUwhgoSEwq2EQLkJNiFk" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3CslZDEkUmxQFGnpeY6yrf5tVrQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,7 +45,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python.console_app.executor": "Run",
+    "Python.file_processor.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -30,11 +62,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c997629d-29d5-4995-9347-9fa447087e7a" name="Changes" comment="" />
-      <created>1777124035342</created>
+      <changelist id="a44bbacc-f94c-4a6a-a8d2-b341108c569e" name="Changes" comment="" />
+      <created>1777182213904</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1777124035342</updated>
+      <updated>1777182213904</updated>
     </task>
     <servers />
   </component>
